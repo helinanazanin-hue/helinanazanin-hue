@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Helina 👋
 
-<!--
-**helinanazanin-hue/helinanazanin-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Game Developer & Game Creator  
+🤖 Exploring AI × Games
 
-Here are some ideas to get you started:
+I’m interested in game development, game design, storytelling, and the intersection of artificial intelligence and interactive experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎮 Game Development
+
+- Unreal Engine
+- Godot
+- Python
+- C++
+- C#
+
+## 🧠 Currently Learning
+
+- Game Development
+- Game Design
+- Git & GitHub
+- AI for Games
+
+## 🚀 Current Projects
+
+Coming soon...
+
+## 📫 Contact
+
+Email: helina.nazanin@gmail.com
